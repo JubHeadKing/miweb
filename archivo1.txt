@@ -6,3 +6,9 @@ Comandos
 - git rm "nombre del archivo"
 - git restore --staged "nombre del archivo"
 - git restore "nombre del archivo" 
+
+
+
+
+
+uwu
