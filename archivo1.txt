@@ -3,3 +3,6 @@ Comandos
 - git status
 - git add
 - git commit
+- git rm "nombre del archivo"
+- git restore --staged "nombre del archivo"
+- git restore "nombre del archivo" 
